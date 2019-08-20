@@ -31,7 +31,7 @@ Clone or download the [Cognitive Services .NET Samples](https://github.com/Azure
 
 This Visual Studio project creates a new Custom Vision project named __My New Project__, which can be accessed through the [Custom Vision website](https://customvision.ai/). It then uploads images to train and test a classifier. In this project, the classifier is intended to determine whether a tree is a __Hemlock__ or a __Japanese Cherry__.
 
-[!INCLUDE [get-keys](includes/get-keys.md)]
+[!INCLUDE [get-keys](includes/get-keys.md)] The UI is changed, the predicition key is available only after the Publish is done and to get key click Prediction URL on Performance section
 
 ## Understand the code
 
